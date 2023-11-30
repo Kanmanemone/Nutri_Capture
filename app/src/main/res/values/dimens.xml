@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="nutriLinearHeight">150dp</dimen>
+
+    <dimen name="nutriText1InCard">25dp</dimen>
+    <dimen name="nutriText21InCard">50dp</dimen>
+    <dimen name="nutriText22InCard">25dp</dimen>
+    <dimen name="nutriText3InCard">25dp</dimen>
+
+    <dimen name="nutriPaddingInCard">5dp</dimen>
+
+    <dimen name="dialog1Height">100dp</dimen>
+    <dimen name="dialog1Width">200dp</dimen>
+
+</resources>

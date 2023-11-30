@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nutrientItem"
+        android:icon="@drawable/ic_today_black_48dp"
+        android:title="영양" />
+
+    <item
+        android:id="@+id/meItem"
+        android:icon="@drawable/ic_how_to_reg_black_48dp"
+        android:title="나" />
+</menu>
+
+
+<!--
+
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nutrientItem"
+        android:icon="@drawable/ic_today_black_48dp"
+        android:title="영양" />
+    <item
+        android:id="@+id/insightItem"
+        android:icon="@drawable/ic_insights_black_48dp"
+        android:title="돌아보기" />
+    <item
+        android:id="@+id/meItem"
+        android:icon="@drawable/ic_how_to_reg_black_48dp"
+        android:title="나" />
+</menu>
+
+-->
